@@ -1,10 +1,8 @@
 <div align="center">
 
   <h1>About</h1>
-  <p>Systems and Informatics Engineering Student | Full Stack Developer</p>
-  <p>Passionate about web development, database management, and network architecture.</p>
-
-  <br />
+  <p>Systems and Informatics Engineering Student | Full Stack Developer. Passionate about web development,
+  database management, and network architecture.</p>
 
   <h2>Languages and Tools</h2>
   <!-- Frontend -->
@@ -23,8 +21,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
-
-  <br /><br />
-  <!-- Contador de vistas del perfil -->
-<img src="https://komarev.com/ghpvc/?username=EdisonNico&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
-</div>
