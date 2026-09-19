@@ -15,7 +15,6 @@
   <!-- Backend & Lenguajes -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <br /><br />
   <!-- Bases de Datos -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
@@ -27,6 +26,5 @@
 
   <br /><br />
   <!-- Contador de vistas del perfil -->
-  <img src="https://komarev.com/ghpvc/?username=EdisonNico&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
-
+<img src="https://komarev.com/ghpvc/?username=EdisonNico&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 </div>
