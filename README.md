@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>About</h1>
-  <p><b>Systems and Informatics Engineering Student | Full Stack Developer</b></p>
+  <p>Systems and Informatics Engineering Student | Full Stack Developer</p>
   <p>Passionate about web development, database management, and network architecture.</p>
 
   <br />
