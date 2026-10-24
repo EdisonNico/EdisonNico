@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/edison-nico-durand-tucno-b556921a2">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/EdisonNico">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="mailto:edisonnicotucno@gmail.com">
+    <img src="https://img.shields.io/badge/CORREO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
   </a>
 </div>
 
@@ -83,8 +83,8 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdisonNico/EdisonNico/output/github-snake-dark.svg" />
-    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/EdisonNico/EdisonNico/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdisonNico/EdisonNico/output/github-snake-dark.svg?v=2" />
+    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/EdisonNico/EdisonNico/output/github-snake.svg?v=2" />
   </picture>
   <br><br>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=EdisonNico&show_icons=true&theme=github_dark&hide_border=true&bg_color=0b0f14" alt="Stats" />
