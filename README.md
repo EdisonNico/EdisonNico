@@ -61,26 +61,40 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
       <h3><a href="https://github.com/Nakusuo/SafeZone_Frontend">SafeZone</a></h3>
       <p>Plataforma de apoyo a víctimas de violencia: dashboards por rol, botón de pánico con GPS y alertas en tiempo real.</p>
       <p><a href="https://github.com/Nakusuo/SafeZone_Frontend">Frontend</a> · <a href="https://github.com/Fernanjpg/BackendSafeZone">Backend</a></p>
+      <!-- <img src="assets/safezone.png" alt="SafeZone" width="100%"><br> -->
       <code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>Java</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/EdisonNico/Rustica">Rústica Perú</a></h3>
-      <p>Prototipo web de Rústica Perú, evaluado con un informe de usabilidad (curso Interacción Hombre-Máquina) y desplegado en Render.</p>
+      <h3><a href="https://rustica-bpuk.onrender.com">Rústica Perú</a></h3>
+      <p>Prototipo web de Rústica Perú, evaluado con un informe de usabilidad (curso Interacción Hombre-Máquina).</p>
+      <p><a href="https://rustica-bpuk.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/Rustica">Código</a></p>
+      <!-- <img src="assets/rustica.png" alt="Rústica Perú" width="100%"><br> -->
       <code>TypeScript</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://cucugoyo-store.onrender.com">Cucugoyo Store</a></h3>
+      <p>Tienda web desplegada en Render.</p>
+      <p><a href="https://cucugoyo-store.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/cucugoyo_store">Código</a></p>
+      <!-- <img src="assets/cucugoyo.png" alt="Cucugoyo Store" width="100%"><br> -->
+      <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
       <h3>Smart Shift</h3>
       <p>Sistema inteligente de turnos médicos, desarrollado para el curso de Diseño de Productos y Servicios.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>Laboratorio de redes</h3>
       <p>Red en Packet Tracer con VLAN 30/99, router on a stick, DHCP, HSRP, AAA-RADIUS 802.1X y port security.</p>
       <code>Cisco Packet Tracer</code>
     </td>
   </tr>
 </table>
+
+> Las demos están en Render (plan gratuito): la primera carga puede tardar unos segundos en arrancar.
 
 ---
 
