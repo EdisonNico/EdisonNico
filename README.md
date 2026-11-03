@@ -115,6 +115,6 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
     <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/EdisonNico/EdisonNico/output/github-snake.svg?v=2" />
   </picture>
   <br><br>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EdisonNico&show_icons=true&theme=github_dark&hide_border=true&bg_color=0b0f14" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonNico&layout=compact&theme=github_dark&hide_border=true&bg_color=0b0f14" alt="Lenguajes" />
+  <img height="170" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas" />
+  <img height="170" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Lenguajes" />
 </div>
