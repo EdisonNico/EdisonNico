@@ -94,13 +94,6 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
       <p>Sistema inteligente de turnos médicos, desarrollado para el curso de Diseño de Productos y Servicios.</p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Laboratorio de redes</h3>
-      <p>Red en Packet Tracer con VLAN 30/99, router on a stick, DHCP, HSRP, AAA-RADIUS 802.1X y port security.</p>
-      <code>Cisco Packet Tracer</code>
-    </td>
-  </tr>
 </table>
 
 > Las demos están en Render (plan gratuito): la primera carga puede tardar unos segundos en arrancar.
