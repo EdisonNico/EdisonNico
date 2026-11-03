@@ -16,6 +16,7 @@
 Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack. Me apasionan el desarrollo web, la gestión de bases de datos y la arquitectura de redes.
 
 - Desarrollo aplicaciones web full stack en equipo (frontend, backend y base de datos).
+- Diseño backends con arquitectura hexagonal (puertos y adaptadores) usando Spring Boot.
 - Configuro y pruebo redes en Cisco Packet Tracer: VLAN, DHCP, HSRP, RADIUS 802.1X y port security.
 - Aplico usabilidad (IHM) y diseño de productos a proyectos académicos.
 
@@ -29,12 +30,18 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
 **Backend**<br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+
+**Arquitectura**<br>
+<img src="https://img.shields.io/badge/Arquitectura-Hexagonal-4B5563?style=flat-square" alt="Arquitectura Hexagonal" />
 
 **Datos**<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -50,6 +57,7 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
 
 ---
 
