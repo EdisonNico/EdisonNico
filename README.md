@@ -7,6 +7,9 @@
   <a href="mailto:edisonnicotucno@gmail.com">
     <img src="https://img.shields.io/badge/CORREO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
   </a>
+  <a href="https://github.com/EdisonNico/EdisonNico/blob/main/assets/CV-Edison-Durand.pdf">
+    <img src="https://img.shields.io/badge/CV-4B5563?style=for-the-badge" alt="CV">
+  </a>
 </div>
 
 ---
