@@ -79,7 +79,7 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
     <td width="50%" valign="top">
       <h3><a href="https://rustica-bpuk.onrender.com">Rústica Perú</a></h3>
       <p>Prototipo web de Rústica Perú, evaluado con un informe de usabilidad (curso Interacción Hombre-Máquina).</p>
-      <p><a href="https://rustica-bpuk.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/Rustica">Código</a></p>
+      <p><a href="https://rustica-ihm.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/Rustica_HMI">Código</a></p>
       <!-- <img src="assets/rustica.png" alt="Rústica Perú" width="100%"><br> -->
       <code>TypeScript</code>
     </td>
