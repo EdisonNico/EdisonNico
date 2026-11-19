@@ -87,7 +87,7 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Mateo de Jalo</h3>
+      <h3>MateoImports</h3>
       <p>Proyecto en desarrollo. Próximamente.</p>
       <!-- TODO: completar descripción, links (demo y código) y herramientas cuando termine el proyecto -->
       <p><em>Demo en vivo · Código</em></p>
