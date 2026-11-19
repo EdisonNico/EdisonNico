@@ -16,9 +16,10 @@
 
 ## $ whoami
 
-Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack. Me apasionan el desarrollo web, la gestión de bases de datos y la arquitectura de redes.
+Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack. Me apasionan el desarrollo web, los videojuegos 2D, la gestión de bases de datos y la arquitectura de redes.
 
 - Desarrollo aplicaciones web full stack en equipo (frontend, backend y base de datos).
+- Creo videojuegos 2D en el navegador con Phaser.
 - Diseño backends con arquitectura hexagonal (puertos y adaptadores) usando Spring Boot.
 - Configuro y pruebo redes en Cisco Packet Tracer: VLAN, DHCP, HSRP, RADIUS 802.1X y port security.
 - Aplico usabilidad (IHM) y diseño de productos a proyectos académicos.
@@ -36,6 +37,7 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Phaser_3-8B5CF6?style=flat-square&logo=phaser&logoColor=white" alt="Phaser" />
 
 **Backend**<br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -55,6 +57,7 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Packet Tracer" />
 
 **IA**<br>
@@ -70,31 +73,31 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Nakusuo/SafeZone_Frontend">SafeZone</a></h3>
-      <p>Plataforma de apoyo a víctimas de violencia: dashboards por rol, botón de pánico con GPS y alertas en tiempo real.</p>
-      <p><a href="https://github.com/Nakusuo/SafeZone_Frontend">Frontend</a> · <a href="https://github.com/Fernanjpg/BackendSafeZone">Backend</a></p>
-      <!-- <img src="assets/safezone.png" alt="SafeZone" width="100%"><br> -->
-      <code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>Java</code>
+      <h3><a href="https://nba-pixel-hoops.onrender.com">NBA Pixel Hoops</a></h3>
+      <p>Videojuego de básquetbol 2D 5 vs 5 inspirado en la NBA, con cámara top-down y estética pixel art. Sprites, cancha y sonidos generados por código.</p>
+      <p><a href="https://nba-pixel-hoops.onrender.com">Jugar online</a> · <a href="https://github.com/EdisonNico/nba-pixel-game">Código</a></p>
+      <code>Phaser 3</code> <code>JavaScript</code> <code>Canvas API</code> <code>Web Audio API</code> <code>Render</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://rustica-bpuk.onrender.com">Rústica Perú</a></h3>
-      <p>Prototipo web de Rústica Perú, evaluado con un informe de usabilidad (curso Interacción Hombre-Máquina).</p>
+      <h3><a href="https://rustica-ihm.onrender.com">Rústica Perú</a></h3>
+      <p>Sitio web accesible de Rústica Perú (WCAG 2.1 AA): panel de accesibilidad, modo noche, paletas para daltonismo y panel de administración. Caso de estudio del curso Interacción Hombre-Máquina.</p>
       <p><a href="https://rustica-ihm.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/Rustica_HMI">Código</a></p>
-      <!-- <img src="assets/rustica.png" alt="Rústica Perú" width="100%"><br> -->
-      <code>TypeScript</code>
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Spring Boot</code> <code>Supabase</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://cucugoyo-store.onrender.com">Cucugoyo Store</a></h3>
-      <p>Tienda web desplegada en Render.</p>
-      <p><a href="https://cucugoyo-store.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/cucugoyo_store">Código</a></p>
-      <!-- <img src="assets/cucugoyo.png" alt="Cucugoyo Store" width="100%"><br> -->
-      <code>JavaScript</code>
+      <h3>Mateo de Jalo</h3>
+      <p>Proyecto en desarrollo. Próximamente.</p>
+      <!-- TODO: completar descripción, links (demo y código) y herramientas cuando termine el proyecto -->
+      <p><em>Demo en vivo · Código</em></p>
+      <code>Por definir</code>
     </td>
     <td width="50%" valign="top">
-      <h3>Smart Shift</h3>
-      <p>Sistema inteligente de turnos médicos, desarrollado para el curso de Diseño de Productos y Servicios.</p>
+      <h3><a href="https://cucugoyo-store.onrender.com">Cucugoyo Store</a></h3>
+      <p>Tienda web de cartas Pokémon y productos sellados, con catálogo público, panel administrativo privado y actualización en tiempo real.</p>
+      <p><a href="https://cucugoyo-store.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/cucugoyo_store">Código</a></p>
+      <code>React</code> <code>Vite</code> <code>JavaScript</code> <code>Supabase</code> <code>Render</code>
     </td>
   </tr>
 </table>
