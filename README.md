@@ -75,7 +75,7 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
     <td width="50%" valign="top">
       <h3><a href="https://nba-pixel-hoops.onrender.com">NBA Pixel Hoops</a></h3>
       <p>Videojuego de básquetbol 2D 5 vs 5 inspirado en la NBA, con cámara top-down y estética pixel art. Sprites, cancha y sonidos generados por código.</p>
-      <p><a href="https://nba-pixel-hoops.onrender.com">Jugar online</a> · <a href="https://github.com/EdisonNico/nba-pixel-game">Código</a></p>
+      <p><a href="https://nba-pixel-hoops.onrender.com">Jugar online</a> · <a href="https://github.com/EdisonNico/NBA-Pixel-Hoops">Código</a></p>
       <code>Phaser 3</code> <code>JavaScript</code> <code>Canvas API</code> <code>Web Audio API</code> <code>Render</code>
     </td>
     <td width="50%" valign="top">
