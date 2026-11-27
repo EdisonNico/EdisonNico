@@ -81,7 +81,7 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
     <td width="50%" valign="top">
   <h3><a href="https://rustica-ihm.onrender.com">Rústica Perú</a></h3>
   <p>Sitio web accesible de Rústica Perú para personas con dificultades visuales, motoras y cognitivas: reservas reales con correo, versión móvil para usar con una mano, lector de voz, modo noche, paletas para daltonismo y panel de administración. Caso de estudio del curso Interacción Hombre-Máquina.</p>
-  <p><a href="https://rustica-ihm.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/Rustica_HMI">Código del sitio</a> · <a href="https://github.com/EdisonNico/rustica-api">Código de la API</a></p>
+  <p><a href="https://rustica-ihm.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/Rustica_HMI">Código del sitio</a> </p>
   <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Spring Boot</code> <code>Supabase</code>
 </td>
   </tr>
