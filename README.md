@@ -79,11 +79,11 @@ Estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack.
       <code>Phaser 3</code> <code>JavaScript</code> <code>Canvas API</code> <code>Web Audio API</code> <code>Render</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://rustica-ihm.onrender.com">Rústica Perú</a></h3>
-      <p>Sitio web accesible de Rústica Perú (WCAG 2.1 AA): panel de accesibilidad, modo noche, paletas para daltonismo y panel de administración. Caso de estudio del curso Interacción Hombre-Máquina.</p>
-      <p><a href="https://rustica-ihm.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/Rustica_HMI">Código</a></p>
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Spring Boot</code> <code>Supabase</code>
-    </td>
+  <h3><a href="https://rustica-ihm.onrender.com">Rústica Perú</a></h3>
+  <p>Sitio web accesible de Rústica Perú para personas con dificultades visuales, motoras y cognitivas: reservas reales con correo, versión móvil para usar con una mano, lector de voz, modo noche, paletas para daltonismo y panel de administración. Caso de estudio del curso Interacción Hombre-Máquina.</p>
+  <p><a href="https://rustica-ihm.onrender.com">Demo en vivo</a> · <a href="https://github.com/EdisonNico/Rustica_HMI">Código del sitio</a> · <a href="https://github.com/EdisonNico/rustica-api">Código de la API</a></p>
+  <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Spring Boot</code> <code>Supabase</code>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
